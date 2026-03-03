@@ -1,0 +1,5 @@
+MATH 301: Advanced Calculus Professor: Dr. Williams Assignment: Solve the following integrals using integration by parts.
+
+∫ x² sin(x) dx
+
+∫ e^x cos(x) dx Show all steps for full credit. Submit as a PDF by Friday.
