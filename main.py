@@ -8,7 +8,7 @@ from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 
 # --- CONFIGURATION ---
-GENAI_API_KEY = "AIzaSyCy8p5siU3unMIood2sn6wY2cxtt-vm4Nk"
+GENAI_API_KEY = ""
 SCOPES = ['https://www.googleapis.com/auth/drive']
 
 # FORCE V1 API (This kills the 404 error for most users)
